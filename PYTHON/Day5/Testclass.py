@@ -2,7 +2,7 @@ from turtle import update
 from Manager import Manager
 from Worker import Worker
 from array import *
-
+#main class
 def exitApp():
     print("Exit Successfully ")
     flag=False
