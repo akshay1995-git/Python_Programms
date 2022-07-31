@@ -2,7 +2,7 @@
 from Employee import *
 from FixedStack import FixedStack
 from GrowStack import GrowStack
-
+#main stack
 
 fstack=FixedStack()
 
